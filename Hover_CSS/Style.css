@@ -1,0 +1,17 @@
+.button{
+     
+    background-color: rgb(177, 92, 92);
+    border-radius: 7px;
+    border-style: dashed;
+    color: burlywood;
+    padding: 10px;
+
+
+
+}
+
+.button:hover{
+
+    background-color: greenyellow;
+
+}
