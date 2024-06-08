@@ -1,0 +1,52 @@
+
+body{
+
+    background-color: darkkhaki;
+}
+/* Default cursor */
+.default-cursor {
+    cursor: default;
+    color: aqua;
+}
+
+/* Pointer cursor for links */
+.link-cursor {
+    cursor: pointer;
+    color: azure;
+}
+
+/* Crosshair cursor for precise selection */
+.crosshair-cursor {
+    cursor: crosshair;
+    color: brown;
+}
+
+/* Text input cursor */
+.text-cursor {
+    cursor: text;
+    color: blue;
+}
+
+/* Move cursor for draggable elements */
+.move-cursor {
+    cursor: move;
+    color: black;
+}
+
+/* Wait cursor for indicating loading */
+.wait-cursor {
+    cursor: wait;
+    color: aliceblue;
+}
+
+/* Help cursor */
+.help-cursor {
+    cursor: help;
+    color: cornflowerblue;
+}
+
+/* Not-allowed cursor for indicating disabled actions */
+.not-allowed-cursor {
+    cursor: not-allowed;
+    color: chartreuse;
+}
