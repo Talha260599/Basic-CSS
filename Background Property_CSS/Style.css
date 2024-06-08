@@ -1,0 +1,23 @@
+
+.BD{
+
+    color: rgb(39, 97, 148);
+}
+
+
+body{
+
+
+    background-image:url("image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+
+    color: darkgoldenrod;
+    font-size: 90px;
+}
+
